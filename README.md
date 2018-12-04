@@ -6,3 +6,4 @@ Working on learning Git, Batch, and Python, all at the same time.
 Super Fun!
 
 Brad Vosburg
+12.03.18
